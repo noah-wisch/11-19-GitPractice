@@ -30,12 +30,13 @@ p {
 }
 
 #sign {
-    position:absolute;
     width:20%;
-    margin-top: 1700px;
-    margin-right: auto;
-    margin-left: auto;
     display:block;
+/*PICK UP HERE NOAH! */
+}
+
+a {
+    color: inherit;
 }
 
 #facebook {
@@ -45,14 +46,19 @@ p {
 }
 
 #index {
-    margin-top: 1680px;
+    bottom:0px;
     position:absolute;
     text-decoration:none;
     color:#08294d;
     font-family:Serif;
-    weight:bold;
+    font-weight:bold;
 }
 
-a:hover {
-    color:#3f7bdb;
+#index:hover {
+    color:red;
+}
+
+
+footer {
+    text-align:center;
 }
