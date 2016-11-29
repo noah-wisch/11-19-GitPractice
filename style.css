@@ -1,19 +1,58 @@
 section {
-    border:1px solid black;
-    color:#aeb0b2;
+    border:1px solid white;
+    background-color:white;
     padding-right:45px;
     padding-left:45px;
     margin-left:130px;
     margin-right:130px;
+    position:absolute;
+    margin-top:495px;
+    border-radius:5px;
 }
 
 h1 {
-    font-family:cursive;
+    font-family:Serif;
     font-weight:bold;
+    color:#08294d;
+    font-size:45px;
 }
 
 p {
-    font-family:Helvetica;
+    font-family:Helvetica, Arial;
+    color:#596C80;
 }
 
-position css property
+#banner {
+    width:1150px;
+    height:600px;
+    position:absolute;
+    border-radius:5px;
+}
+
+#sign {
+    position:absolute;
+    width:20%;
+    margin-top: 1700px;
+    margin-right: auto;
+    margin-left: auto;
+    display:block;
+}
+
+#facebook {
+    position:fixed;
+    width:3.5%;
+    margin:5px;
+}
+
+#index {
+    margin-top: 1680px;
+    position:absolute;
+    text-decoration:none;
+    color:#08294d;
+    font-family:Serif;
+    weight:bold;
+}
+
+a:hover {
+    color:#3f7bdb;
+}
