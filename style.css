@@ -1,3 +1,24 @@
 html {
-    background-image: ul(http://www.armchairallamericans.com/wp-content/uploads/2016/09/4098503029_e11efcbe33_b-1.jpg);
+    background-image: ul(https://adventure2013blog.files.wordpress.com/2013/11/favelas.jpg);
+    background-size: 1000px 700px;
+}
+
+img {
+    border-radius:100%;
+    border:5px solid black;
+    width:15%;
+    margin-left: 500px;
+    margin-right: 500px;
+    display:inline-block;
+}
+
+h1 {
+    margin-left: 500px;
+    margin-right: 500px;
+    text-size:10px;
+}
+
+p {
+    margin-left:350px;
+    display:inline-block;
 }
