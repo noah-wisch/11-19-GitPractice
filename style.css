@@ -1,12 +1,12 @@
 section {
     border:1px solid white;
     background-color:white;
-    padding-right:45px;
-    padding-left:45px;
-    margin-left:130px;
-    margin-right:130px;
+    padding-right:60px;
+    padding-left:60px;
+    margin-left:350px;
+    margin-right:350px;
     position:absolute;
-    margin-top:495px;
+    margin-top:600px;
     border-radius:5px;
 }
 
@@ -23,20 +23,25 @@ p {
 }
 
 #banner {
-    width:1150px;
-    height:600px;
+    width:1525px;
+    height:700px;
     position:absolute;
     border-radius:5px;
+    display:block;
 }
 
 #sign {
-    width:20%;
-    display:block;
-/*PICK UP HERE NOAH! */
+    width:25%;
+    display:inline-block;
+    margin-left:280px;
 }
 
 a {
     color: inherit;
+}
+
+a:hover {
+    color:#3f7bdb;
 }
 
 #facebook {
@@ -55,10 +60,13 @@ a {
 }
 
 #index:hover {
-    color:red;
+    color:#3f7bdb;
 }
 
 
-footer {
-    text-align:center;
+footer img {
+    /* text-align:center; */
+    height:15px;
+    display:inline-block;
+    margin-left:320px;
 }
