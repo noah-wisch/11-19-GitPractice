@@ -34,6 +34,7 @@ p {
     width:25%;
     display:inline-block;
     margin-left:280px;
+    /* I have no idea why this moved the signature! Nothing else I tried worked, but this did. */
 }
 
 a {
@@ -69,4 +70,5 @@ footer img {
     height:15px;
     display:inline-block;
     margin-left:320px;
+    /* I have no idea why this worked either! Nothing else I tried worked, but this did. */
 }
